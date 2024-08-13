@@ -1,0 +1,12 @@
+/* Import Bootstrap if needed */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* Import Tailwind's base, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles can go here */
+.custom-class {
+    color: #ddb1b1;
+}
